@@ -1,0 +1,29 @@
+
+
+.nav{
+    grid-area: n;
+    background-color: dimgray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.item a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.item a.active{
+    color: rebeccapurple;
+}
+.itemWhite{
+    color: white;
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+.Devel{
+    font-family: -apple-system;
+    color: darkslategrey;
+    text-decoration: none;
+    font-size: 12px;
+
+}

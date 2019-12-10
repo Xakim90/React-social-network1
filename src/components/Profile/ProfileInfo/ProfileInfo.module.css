@@ -1,0 +1,21 @@
+
+.ProfileInfo{
+
+}
+.DescriptionBlock{
+    padding: 10px;
+}
+
+.rasm{
+    position: relative;
+}
+/*.rasm ::after{*/
+    /*content: "";*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*position: absolute;*/
+    /*width: 1000px;*/
+    /*height: 1000px;*/
+    /*background-image: url("../../../assets/images/img07.jpg");*/
+    /*z-index: -1;*/
+/*}*/
